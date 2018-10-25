@@ -20,7 +20,10 @@ end
 
 
 def list(my_songs)
+  array = []
   my_songs.each do |key, value|
+    array < key
+    
 end
 
 
